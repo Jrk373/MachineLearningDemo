@@ -1,0 +1,55 @@
+Here’s a list of hexadecimal color codes representing a scale of colors from dark to light for each major color of the rainbow (red, orange, yellow, green, blue, indigo, and violet):
+
+### Red
+- Dark Red: `#8B0000`
+- Medium Dark Red: `#B22222`
+- Medium Red: `#DC143C`
+- Light Red: `#FF6347`
+- Very Light Red: `#FFA07A`
+
+### Orange
+- Dark Orange: `#FF4500`
+- Medium Dark Orange: `#FF7F50`
+- Medium Orange: `#FFA500`
+- Light Orange: `#FFB347`
+- Very Light Orange: `#FFDAB9`
+
+### Yellow
+- Dark Yellow: `#FFD700`
+- Medium Dark Yellow: `#FFEB3B`
+- Medium Yellow: `#FFFF00`
+- Light Yellow: `#FFFF99`
+- Very Light Yellow: `#FFFFE0`
+
+### Green
+- Dark Green: `#006400`
+- Medium Dark Green: `#228B22`
+- Medium Green: `#32CD32`
+- Light Green: `#90EE90`
+- Very Light Green: `#DFFFD6`
+
+### Blue
+- Dark Blue: `#00008B`
+- Medium Dark Blue: `#0000CD`
+- Medium Blue: `#4169E1`
+- Light Blue: `#87CEFA`
+- Very Light Blue: `#B0E0E6`
+
+### Indigo
+- Dark Indigo: `#4B0082`
+- Medium Dark Indigo: `#6A0DAD`
+- Medium Indigo: `#7B68EE`
+- Light Indigo: `#9D81E7`
+- Very Light Indigo: `#C4B0F4`
+
+### Violet
+- Dark Violet: `#9400D3`
+- Medium Dark Violet: `#9932CC`
+- Medium Violet: `#BA55D3`
+- Light Violet: `#DDA0DD`
+- Very Light Violet: `#E6E6FA`
+
+### Notes:
+- These colors follow the progression from dark shades to light shades for each rainbow color.
+- The progression is based on both increasing lightness and the addition of white for lighter shades.
+
