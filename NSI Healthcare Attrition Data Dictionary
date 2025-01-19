@@ -1,0 +1,49 @@
+# Employee Attrition for Healthcare Dataset - Data Dictionary
+
+This document provides a detailed data dictionary for the "Employee Attrition for Healthcare" dataset available on Kaggle.
+
+| **Column Name**             | **Data Type** | **Description**                                                                 |
+|-----------------------------|---------------|---------------------------------------------------------------------------------|
+| **Age**                     | Integer       | Age of the employee.                                                           |
+| **Attrition**               | String        | Whether the employee has left the company ('Yes' or 'No').                     |
+| **BusinessTravel**          | String        | Frequency of business travel ('Non-Travel', 'Travel_Rarely', 'Travel_Frequently'). |
+| **DailyRate**               | Integer       | Daily rate of the employee.                                                    |
+| **Department**              | String        | Department where the employee works.                                           |
+| **DistanceFromHome**        | Integer       | Distance from home to workplace (in miles).                                    |
+| **Education**               | Integer       | Education level (1: 'Below College', 2: 'College', 3: 'Bachelor', 4: 'Master', 5: 'Doctor'). |
+| **EducationField**          | String        | Field of education.                                                            |
+| **EmployeeCount**           | Integer       | Number of employees (default is 1 for each record).                            |
+| **EmployeeNumber**          | Integer       | Unique identifier for each employee.                                           |
+| **EnvironmentSatisfaction** | Integer       | Satisfaction with the environment (1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High'). |
+| **Gender**                  | String        | Gender of the employee ('Male' or 'Female').                                   |
+| **HourlyRate**              | Integer       | Hourly rate of the employee.                                                   |
+| **JobInvolvement**          | Integer       | Level of job involvement (1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High').   |
+| **JobLevel**                | Integer       | Job level within the organization.                                             |
+| **JobRole**                 | String        | Role of the employee within the company.                                       |
+| **JobSatisfaction**         | Integer       | Job satisfaction level (1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High').     |
+| **MaritalStatus**           | String        | Marital status of the employee.                                                |
+| **MonthlyIncome**           | Integer       | Monthly income of the employee.                                                |
+| **MonthlyRate**             | Integer       | Monthly rate of the employee.                                                  |
+| **NumCompaniesWorked**      | Integer       | Number of companies the employee has worked for.                               |
+| **Over18**                  | String        | Whether the employee is over 18 years old ('Yes').                             |
+| **OverTime**                | String        | Whether the employee works overtime ('Yes' or 'No').                           |
+| **PercentSalaryHike**       | Integer       | Percentage increase in salary.                                                 |
+| **PerformanceRating**       | Integer       | Performance rating (1: 'Low', 2: 'Good', 3: 'Excellent', 4: 'Outstanding').    |
+| **RelationshipSatisfaction**| Integer       | Satisfaction with relationships (1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High'). |
+| **StandardHours**           | Integer       | Standard working hours (default is 80).                                        |
+| **StockOptionLevel**        | Integer       | Stock option level.                                                            |
+| **TotalWorkingYears**       | Integer       | Total number of years the employee has worked.                                 |
+| **TrainingTimesLastYear**   | Integer       | Number of training sessions attended last year.                                |
+| **WorkLifeBalance**         | Integer       | Work-life balance rating (1: 'Bad', 2: 'Good', 3: 'Better', 4: 'Best').        |
+| **YearsAtCompany**          | Integer       | Number of years the employee has been with the company.                        |
+| **YearsInCurrentRole**      | Integer       | Number of years in the current role.                                           |
+| **YearsSinceLastPromotion** | Integer       | Number of years since the last promotion.                                      |
+| **YearsWithCurrManager**    | Integer       | Number of years with the current manager.                                      |
+
+---
+
+## Sources
+
+- Dataset: [Employee Attrition for Healthcare](https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare)
+- Data Dictionary: Compiled from the dataset's description and metadata.
+
