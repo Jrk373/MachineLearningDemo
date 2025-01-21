@@ -1,55 +1,51 @@
-Here’s a list of hexadecimal color codes representing a scale of colors from dark to light for each major color of the rainbow (red, orange, yellow, green, blue, indigo, and violet):
+Here’s a color palette in hexadecimal format inspired by the Crayola 64 crayon set. While it’s challenging to exactly match the shades without direct sampling, this palette captures the general tones associated with Crayola’s iconic colors:
 
-### Red
-- Dark Red: `#8B0000`
-- Medium Dark Red: `#B22222`
-- Medium Red: `#DC143C`
-- Light Red: `#FF6347`
-- Very Light Red: `#FFA07A`
+Reds and Pinks:
+Brick Red: #CB4154
+Red: #ED0A3F
+Cerise: #DE3163
+Carnation Pink: #FFA6C9
+Raspberry: #E30B5D
 
-### Orange
-- Dark Orange: `#FF4500`
-- Medium Dark Orange: `#FF7F50`
-- Medium Orange: `#FFA500`
-- Light Orange: `#FFB347`
-- Very Light Orange: `#FFDAB9`
+Oranges:
+Orange: #FF7538
+Burnt Orange: #FF7F49
+Apricot: #FDD9B5
+Peach: #FFCBA4
 
-### Yellow
-- Dark Yellow: `#FFD700`
-- Medium Dark Yellow: `#FFEB3B`
-- Medium Yellow: `#FFFF00`
-- Light Yellow: `#FFFF99`
-- Very Light Yellow: `#FFFFE0`
+Yellows:
+Yellow: #FCE883
+Goldenrod: #FCD667
+Dandelion: #FDDB6D
 
-### Green
-- Dark Green: `#006400`
-- Medium Dark Green: `#228B22`
-- Medium Green: `#32CD32`
-- Light Green: `#90EE90`
-- Very Light Green: `#DFFFD6`
+Greens:
+Green: #1CAC78
+Forest Green: #6DAE81
+Spring Green: #ECEABE
+Olive Green: #BAB86C
 
-### Blue
-- Dark Blue: `#00008B`
-- Medium Dark Blue: `#0000CD`
-- Medium Blue: `#4169E1`
-- Light Blue: `#87CEFA`
-- Very Light Blue: `#B0E0E6`
+Blues:
+Blue: #1F75FE
+Cerulean: #1DACD6
+Periwinkle: #C5D0E6
+Cornflower: #9ACEEB
 
-### Indigo
-- Dark Indigo: `#4B0082`
-- Medium Dark Indigo: `#6A0DAD`
-- Medium Indigo: `#7B68EE`
-- Light Indigo: `#9D81E7`
-- Very Light Indigo: `#C4B0F4`
+* navy: #000080, #000070
 
-### Violet
-- Dark Violet: `#9400D3`
-- Medium Dark Violet: `#9932CC`
-- Medium Violet: `#BA55D3`
-- Light Violet: `#DDA0DD`
-- Very Light Violet: `#E6E6FA`
+Purples:
+Violet (Purple): #926EAE
+Lavender: #FCB4D5
+Orchid: #E29CD2
 
-### Notes:
-- These colors follow the progression from dark shades to light shades for each rainbow color.
-- The progression is based on both increasing lightness and the addition of white for lighter shades.
+Browns:
+Brown: #B4674D
+Tan: #FAA76C
+Raw Sienna: #D68A59
+Mahogany: #CD4A4C
 
+Grays and Neutrals:
+Gray: #95918C
+
+Black: #000000
+
+White: #FFFFFF
