@@ -1,5 +1,10 @@
 **Decision Classifier Tree Machine Learning Demonstration**
-John Ryan Kivela The Narbha INstitute January 2025
+
+John Ryan Kivela, MA 
+
+The Narbha Institute 
+
+January 2025
 
 **Things to know:**
 All of these materials will be located in a public Github repository which makes them open source. I control changes, but anyone can access them. If Github requires a log in, you should be able to use your Google account login.
