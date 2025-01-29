@@ -1,4 +1,4 @@
-**Decision Classifier Tree Machine Learning Demonstration**
+**Decision Tree Classifier Machine Learning Demonstration**
 
 John Ryan Kivela, MA 
 
