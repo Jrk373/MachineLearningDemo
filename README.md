@@ -20,3 +20,5 @@ Select the Jupyter Notebook "DecisionTreeCLassifier": https://github.com/Jrk373/
 Right click on the "Open in Google Colab" button at the top of the paget.
 
 Select "Open in new tab"
+
+You can then run all of the code by selecting "Runtime > Run All" from the menu bar.
