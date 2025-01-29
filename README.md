@@ -15,7 +15,7 @@ Log in to Google account on Chrome browser: https://myaccount.google.com/
 
 Go to repository "MachineLearningDemo": https://github.com/Jrk373/MachineLearningDemo
 
-Select the Jupyter Notebook "MachineLearningDemo": https://github.com/Jrk373/ODSC_AI_5_Week_Bootcamp/blob/main/MachineLearningDemo.ipynb
+Select the Jupyter Notebook "MachineLearningDemo": https://github.com/Jrk373/MachineLearningDemo/blob/main/DecisionTreeClasifier.ipynb
 
 Right click on the "Open in Google Colab" button at the top of the paget.
 
