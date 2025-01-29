@@ -13,7 +13,7 @@ It is not necessary to understand the code languages. The notebook will run all 
 How to open Python in Jupyer Notebook
 Log in to Google account on Chrome browser: https://myaccount.google.com/
 
-Go to repository "ODSC_AI_5_Week_Bootcamp": https://github.com/Jrk373/ODSC_AI_5_Week_Bootcamp
+Go to repository "MachineLearningDemo": https://github.com/Jrk373/MachineLearningDemo
 
 Select the Jupyter Notebook "MachineLearningDemo": https://github.com/Jrk373/ODSC_AI_5_Week_Bootcamp/blob/main/MachineLearningDemo.ipynb
 
